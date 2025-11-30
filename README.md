@@ -1,2 +1,1 @@
-![Artificial Intelligence](https://github.com/user-attachments/assets/5fb55c4f-87a4-46b8-be0e-409b50b5b94b)
-
+<img width="1024" height="666" alt="Artificial Intelligence" src="https://github.com/user-attachments/assets/ec84c5bf-7343-4ae9-ad9b-4b2b92bc63c0" />
